@@ -1,6 +1,6 @@
 {
     "name": "hapi-rate-limit",
-    "version": "6.0.0",
+    "version": "7.1.0",
     "description": "Rate limiting plugin for hapi",
     "main": "index.js",
     "scripts": {
@@ -20,7 +20,7 @@
     "author": "Gar <gar+code@danger.computer>",
     "license": "MIT",
     "engines": {
-        "node": "^14.0.0 || ^16.0.0 || ^18.0.0"
+        "node": "^18.0.0 || ^20.0.0"
     },
     "bugs": {
         "url": "https://github.com/wraithgar/hapi-rate-limit/issues"
@@ -44,7 +44,7 @@
     ],
     "devDependencies": {
         "@hapi/code": "^9.0.0",
-        "@hapi/hapi": "^20.0.0",
+        "@hapi/hapi": "^21.0.0",
         "@hapi/lab": "^25.0.1",
         "git-validate": "^2.2.4",
         "standard": "^17.0.0"
